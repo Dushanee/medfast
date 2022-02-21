@@ -19,7 +19,7 @@
             <!-- Nested Row within Card Body -->
             <div class="row">
               <div class="col-lg-12 main-column">
-                <img src="medfastlogo.png" alt="" class="aligncenter login-logo" width="400">
+                <img src="images/medfastlogo.png" alt="" class="aligncenter login-logo" width="400">
                 <div class="p-5 login-form">
                   <form class="user" action="login-process.php" method="post">
                     <div class="form-group">
